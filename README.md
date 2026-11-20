@@ -9,6 +9,7 @@ Code, files and prompts from the videos on the **Microlearn** YouTube channel. E
 |---|---|
 | I Built a JARVIS AI Assistant That Can Talk Back and Control My PC | [videos/jarvis-ai-assistant](videos/jarvis-ai-assistant) |
 | Best Local LLM for 8GB VRAM (I Tested 5 on My RTX 4060) | [videos/local-llm-8gb-vram-test](videos/local-llm-8gb-vram-test) |
+| Best Local AI Model: 4GB vs 8GB vs 16GB GPUs Explained (cheat sheet) | [videos/2026-11-best-local-ai-model-gpu](videos/2026-11-best-local-ai-model-gpu) |
 
 ## Skills
 | Skill | Folder |
